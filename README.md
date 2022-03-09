@@ -10,4 +10,4 @@ I am updating the README.md
 - using markdown
 - create a list
 
-This is fun. I'm confused but it's fun.
+This is fun. I'm still confused though. Very confused.
