@@ -9,3 +9,5 @@ Follow the instructions in your canvas lab assessment for this activity
 I am updating the README.md
 - using markdown
 - create a list
+
+This is fun. I'm confused but it's fun.
